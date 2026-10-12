@@ -5,7 +5,8 @@ Realtime handwritten digit detection using:
 - Web camera (browser)
 - Flask backend
 - Railway deployment
-
+- Python3
+  
 ## Run Backend
 cd backend
 pip install -r requirements.txt
